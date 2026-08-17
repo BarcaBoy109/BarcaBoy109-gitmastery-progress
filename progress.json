@@ -34,5 +34,14 @@
       "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1786965955.94048,
+    "completed_at": 1786965957.633424,
+    "comments": [
+      "C:\\Users\\ASUS\\Programming\\exercises\\push-over\\push-this"
+    ],
+    "status": "Error"
   }
 ]
